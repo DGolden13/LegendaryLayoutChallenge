@@ -27,7 +27,7 @@ Praesent volutpat odio sed ante posuere lacinia. Suspendisse eget ullamcorper du
 Nunc a vehicula velit. Vivamus rutrum elementum massa in consectetur. Nunc placerat leo sit amet est accumsan, et rhoncus leo tincidunt. Ut suscipit orci sed ultrices commodo. Vestibulum sed purus semper, ullamcorper metus in, ultrices nulla. Aliquam erat volutpat. Mauris non tellus pretium, accumsan velit eu, suscipit ipsum. Integer risus dui, feugiat id rutrum ut, aliquet et arcu. Duis ac lacus ac magna pretium semper ut ut metus. Phasellus nec elit quis erat condimentum tincidunt. Vestibulum porttitor tincidunt dui, eu ornare massa fringilla sit amet. Cras et maximus justo. Aenean non enim vel massa pulvinar congue. Phasellus quis nisi vel mauris gravida tempor. Mauris sed fringilla lacus, interdum fermentum massa. Quisque pretium sollicitudin sapien vitae cursus.
                 </TextBlock>
 
-                <StackPanel VerticalAlignment="Top" Orientation="Horizontal" Width="300">
+                <StackPanel VerticalAlignment="Top" Orientation="Horizontal" Width="300" Margin="10,0,0,0">
                     <Rectangle Height="200" Width="200" Fill="Blue" />
                     <StackPanel>
                         <Rectangle Height="100" Width="100" Fill="Red" />
