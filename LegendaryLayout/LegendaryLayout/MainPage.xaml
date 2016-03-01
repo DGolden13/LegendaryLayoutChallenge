@@ -10,7 +10,7 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
         <StackPanel Margin="10,0,0,0">
-            <TextBlock FontSize="48" Margin="0,0,0,0">Lorem Ipsum</TextBlock>
+            <TextBlock FontSize="48" Margin="0,0,0,20">Lorem Ipsum</TextBlock>
 
             <StackPanel Orientation="Horizontal">
                 <TextBlock TextWrapping="Wrap" Width="250" Margin="0,0,10,0">
